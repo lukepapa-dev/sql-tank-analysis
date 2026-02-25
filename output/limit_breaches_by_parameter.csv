@@ -1,0 +1,7 @@
+parameter,breaches,total,breach_rate_pct
+"Chlorine, Free",31,6077,0.51
+Chlorine Tank Level,0,3989,0.0
+Chlorine Tank Residual,0,1231,0.0
+"Chlorine, Free (Inflow)",0,306,0.0
+"Chlorine, Free (Outflow)",0,308,0.0
+"Chlorine, Free (madd)",0,155,0.0
