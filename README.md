@@ -97,6 +97,6 @@ project-2-sql-tank-analysis/
 This analysis identifies operational risk areas and supports proactive monitoring and maintenance decisions.
 
 ## Author
-Luke Papaevangeliou
-Project Type: Operational Data Analysis
+Luke Papaevangeliou <br />
+Project Type: Operational Data Analysis <br />
 Dataset: Real-world infrastructure monitoring data (anonymized)
